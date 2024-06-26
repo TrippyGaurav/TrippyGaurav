@@ -14,12 +14,6 @@ New Delhi | [Gauravk8920@gmail.com](mailto:Gauravk8920@gmail.com)
 - Built the backend infrastructure using Node.js, Express, and PostgreSQL along with developing a user-friendly client interface comprising both a Chrome extension for end-users and a Next.js website for administrators.
 - Design and deploy Chrome extensions including a Teleparty extension with chat video call features and emoji integration amassing over 700 downloads.
 
-### Web Development Intern
-**The Sparks Foundation**  
-*Jan 2023 – Jan 2023*
-
-- Designed and developed a dynamic banking website with an intuitive user interface and seamless navigation using ReactJS.
-- Successfully integrated Firebase to ensure smooth data flow and real-time updates providing a reliable user experience for the frontend-backend connection.
 
 ## Education
 
