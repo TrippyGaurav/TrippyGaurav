@@ -1,72 +1,65 @@
-# Gaurav Kumar
 
+# Gaurav Kumar
 **Full Stack Developer**  
-New Delhi | [Gauravk8920@gmail.com](mailto:Gauravk8920@gmail.com)  
-[github.com/trippygaurav](https://github.com/trippygaurav) | [in/gauravk9870](https://linkedin.com/in/gauravk9870) | [gauravkumar.vercel.app](https://gauravkumar.vercel.app)
+9871311597 | Chhawla New Delhi | gauravk8920@gmail.com  
 
 ## Experience
 
-### Full Stack Developer
-**Underpin Services**  
-*July 2023 – Present*
+### Full Stack Developer  
+**Underpin Services** | FEB 2023 – Present, New Delhi  
 
-- Develop SEO-optimized web interfaces with React.js, Next.js, HTML, CSS, and JavaScript.
-- Built the backend infrastructure using Node.js, Express, and PostgreSQL along with developing a user-friendly client interface comprising both a Chrome extension for end-users and a Next.js website for administrators.
-- Design and deploy Chrome extensions including a Teleparty extension with chat video call features and emoji integration amassing over 700 downloads.
+#### Betting Paradize - Sports Betting Platform
+- Led a team to build a scalable sports betting platform following a microservices architecture.
+- Designed the betting system and developed the flow for processing bets efficiently.
+- Used Redis for caching and implemented Pub/Sub for inter-service communication to ensure efficient data synchronization across services.
+- Integrated both Server-Sent Events (SSE) and Socket.IO to handle real-time notifications, providing instant updates to users and services.
+- Focused on system design to ensure seamless communication, fault tolerance, and high availability.
 
+#### Milkyway Casino - Online Gaming Platform | [preview](https://www.milkyway-casino.com)
+- Led the team in implementing the platform using Next.js and Tailwind CSS, ensuring layout consistency with Figma designs and accessibility across all devices.
+- Enhanced website performance by optimizing images and reducing API calls, resulting in 30% improvement in load time and 25% reduction in server load.
+- Designed and developed secure and high-performance REST APIs for the CRM and gaming platform using Node.js, Express, and MongoDB.
+- Provided guidance on CRM implementation, conducted code reviews, and maintained high code quality, boosting team productivity and project success.
 
-## Education
+#### Bulk Messenger | [preview](https://www.loom.com/share/3039bc6c6fdb4775830bbf4044525233?sid=c24f4396-ed29-4a68-8555-ee886f66ed08)
+- Built a Chrome extension using React.js, CSS, and WebSockets to send multiple messages to multiple users at scheduled times.
+- Developed the backend with Node.js, Express, and PostgreSQL, handling message scheduling using node-cron and managing WebSocket reconnections for reliable message delivery.
+- Automated the sending of messages to Facebook users at different times using WebSockets, ensuring 99% message delivery rate and 50% faster message scheduling compared to previous systems.
 
-### Masters of Computer Application (MCA)
-**Lovely Professional University**  
-*2023 – 2025*
+#### Teleparty | [preview](https://www.teleparty.pro)
+- Built the user interface of the Chrome extension using React.js and CSS, ensuring a seamless user experience for watching OTT content together with live video calling and chatting.
+- Managed real-time messaging using Socket.io, allowing users to chat while watching content on more than 10 OTT platforms, including Netflix, Prime Video, and YouTube.
+- Developed an emoji shower feature, enabling users to trigger emoji animations during video calls. Achieved 713 users, demonstrating the extension's popularity and effectiveness.
 
-### Bachelor of Computer Application
-**Maharshi Dayanand University**  
-*2020 – 2023*
-
-### 12th CBSE
-**Govt. Boys Sr. Sec. School**  
-*2019 - 2020*
-
-## Certifications / Courses
-
-- **Java (Basic)** – Hackerrank
-- **JavaScript (Basic)** – Hackerrank
-- **Java Full Stack Development** – Jspider
+#### Record Bro | [preview](https://www.recordbro.com)
+- Developed a Chrome extension that allows users to record their screen and camera simultaneously, supporting functionality across the entire window.
+- Implemented screen blurring to hide sensitive information during recording and added annotation tools for drawing on the screen to enhance content explanation.
+- Achieved 5800 downloads, demonstrating user demand and the extension's effectiveness.
 
 ## Skills
+**Frontend**: JavaScript • Next.js • ReactJS • Redux • HTML • CSS • TailwindCSS • Typescript • SASS  
+**Backend**: Node.js • Express.js • MongoDB • PostgreSQL • Socket.io • Puppeteer.js  
+**Others**: Git • GitHub • Postman • VS code • Vercel • Render • Cloudinary • Chrome Extensions  
 
-- NextJs
-- ReactJs
-- Node.js
-- Express
-- MongoDB
-- PostgreSQL
-- WebSocket
-- Chrome Extensions
-- JavaScript
-- CSS
-- Tailwind
-- SCSS
-- HTML
+## Education
+**Masters of Computer Application (MCA)**  
+Lovely Professional University (2023 – 2025)
 
-## Projects
+**Bachelor of Computer Application**  
+Maharshi Dayanand University (2020 – 2023)
 
-### Bulk Messenger @ Underpin Services
+**12th CBSE**  
+Govt. Boys Sr. Sec. School (2019 - 2020)
 
-- Developed a robust backend system using Node.js Express.js and PostgreSQL to facilitate bulk messenger capabilities and CRM functionalities.
-- Designed and deployed RESTful APIs to handle user authentication agents’ management and message sending ensuring scalability and efficiency.
-- Helped team members in implementing the frontend ensuring alignment with backend functionalities and cohesive user experience.
+## Training
+**Java Full Stack Development** – Jspider  
 
-### Teleparty @ Underpin Services
+## Certification / Courses
+- Java (Basic) – Hackerrank
+- JavaScript (Basic) – Hackerrank
 
-- Implemented the chat user interface of a real-time chat application using ReactJS Socket.io overseeing message handling for seamless user interaction.
-- Developed and integrated the engaging emoji shower feature within the chat application enhancing user experience and interface interactivity.
-- Developed a responsive promotional website for Chrome extension using Next.js ensuring optimal user experience across various devices and implementing SEO best practices.
+## My Work
+- Portfolio: [https://gauravkumar.vercel.app](https://gauravkumar.vercel.app)
+- Github: [https://github.com/TrippyGaurav](https://github.com/TrippyGaurav)
+- LinkedIn: [linkedin.com/in/gauravk9870](https://linkedin.com/in/gauravk9870)
 
-### Tracknfly @ Underpin Services
-
-- Played a pivotal role in the development of a comprehensive flight booking website.
-- Leveraged a diverse range of technologies including React.js CSS SCSS Node.js Express and external APIs.
-- Took responsibility for both frontend and backend implementation.
